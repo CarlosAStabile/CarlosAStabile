@@ -90,7 +90,13 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
     - ### Conocimientos de JavaScript
     ![logo de JS, level newbie](https://img.shields.io/badge/JAVASCRIPT-newbie-brightgreen?style=for-the-badge&logo=javascript) \
         - JavaScript **NO ES** Java _(of course)_ \
-        <!-- - CONTINUAR -->
+        - Que significa `lenguaje interpretado`, `orientado a objetos`, `debilmente tipado` y `dinámico` para JavaScript. \
+        - Elementos en el lenguaje de programación: Variables, funciones, sintaxis. \
+        - Tipos de datos en JavaScript. Primitivos, objetos, arrays. \
+        - `Scope`. Tipos de scopes. \
+        - Que diantres es el `hoisting` \
+        - Operadores, condicionales, loops
+    > El mundo del `JavaScript` me es inabarcable en estos momentos, pero, vamos dando nuestros primeros pasos.
 
     - ### Conocimientos de GIT y GitHub
     ![logos de Git y GitHub](https://img.shields.io/badge/GIT-beginner-brightgreen?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/GITHUB-newbie-brightgreen?style=for-the-badge&logo=github) \
@@ -113,7 +119,33 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
         - _I have `words` in my mind but they need to grammatical rules_ \
         (sin Google Translate... no hay premio por eso? 😅)
 
-2.  ## Y... ahora...?
+2. ## Primeros pasos con proyectos
+- _Mi idea es cronogramar proyectos sencillos con una frecuencia por lo menos de 2 en el mes y que sean públicos en `GitHub`_
+    
+    - #### MARZO 2023
+        - Proyecto `manzdev-retos-basic-card` \
+        Este proyecto fue refactorizado luego de casí 1 año de estar detenido.
+        ![Status - Done](https://img.shields.io/badge/status-DONE-success?style=for-the-badge)
+        - Proyecto `proyecto-blog-feb2023` \
+        Este proyecto intenta mostrar un página sencilla, no tan ligada al concepto de **_blog_** y si a realizar un _layout_ con inclusión de imagenes. Se comenzó a mediados de febrero y será la base del siguiente proyecto.
+        ![Status - Done](https://img.shields.io/badge/status-DONE-success?style=for-the-badge)
+        ![Status - Version](https://img.shields.io/badge/version-0.1.1-green?style=for-the-badge)
+        - Proyecto `project-RDMF-blog` \
+        Este proyecto será la adaptación del anterior a _Responsive Design_
+        ![Status - Planned](https://img.shields.io/badge/status-PLANNED-yellow?style=for-the-badge)
+        - Proyecto `project-ableton-page` \
+        Este proyecto intenta emular un página web sencilla, utilizandose como referencia la web [_Frontend Practice_](https://www.frontendpractice.com/).
+        ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge)
+        - Proyecto `my-repo-cas` \
+        Este es el **README.md** de mi repositorio de presentación. El mismo estará ampliandose a medida se incorporen proyectos, los cuales, también tendrán sus correspondientes _README.md_
+        ![Status - Working](https://img.shields.io/badge/status-WIP-informational?style=for-the-badge)
+
+        <!-- CONTINUAR -->
+    
+    - #### ABRIL 2023
+        -    
+
+3.  ## Y... ahora...?
 
  - Como todo en esta vida, la puesta en práctica de los conocimientos adquiridos resultan ser claves para adquirir confianza y valor, lo cual eventualmente puede abrir oportunidades laborales en el rubro.
 
