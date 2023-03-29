@@ -138,18 +138,19 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
         ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge)
         - Proyecto `my-repo-cas` \
         Este es el **README.md** de mi repositorio de presentación. El mismo estará ampliandose a medida se incorporen proyectos, los cuales, también tendrán sus correspondientes _README.md_
-        ![Status - Working](https://img.shields.io/badge/status-WIP-informational?style=for-the-badge)
+        ![Status - Working](https://img.shields.io/badge/status-WIP%20month%20to%20month-informational?style=for-the-badge)
+        ![Status - Version](https://img.shields.io/badge/version-1.1-informational?style=for-the-badge)
 
-        <!-- CONTINUAR -->
+        <!-- CONTINUAR CONTINUAR y CONTINUAR, this is the way -->
     
     - #### ABRIL 2023
-        -    
+        - A planificar. Seguir con los proyectos no concluídos del mes de **MARZO 2023** y evaluar agregar nuevos.
 
 3.  ## Y... ahora...?
 
  - Como todo en esta vida, la puesta en práctica de los conocimientos adquiridos resultan ser claves para adquirir confianza y valor, lo cual eventualmente puede abrir oportunidades laborales en el rubro.
 
- - Tomo la idea de que realizando proyectos sencillos, el camino se va abriendo ante uno, además de construir y establecer un historial de dicho camino.
+ - Tomo la idea de que realizando proyectos sencillos, el camino se va a ir abriendo ante uno, haciendo de esta manera, el posible  _"volverse bueno"_, además de construir y establecer un historial de dicho camino.
 
  - Proyectos públicos en remoto pretendo por lo menos haya un par por mes. Proyectos locales, deben ser más y parcial o totalmente experimentales.
 
