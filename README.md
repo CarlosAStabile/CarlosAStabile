@@ -132,10 +132,11 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
         ![Status - Version](https://img.shields.io/badge/version-0.1.1-green?style=for-the-badge)
         - Proyecto `project-RDMF-blog` \
         Este proyecto será la adaptación del anterior a _Responsive Design_
-        ![Status - Planned](https://img.shields.io/badge/status-PLANNED-yellow?style=for-the-badge)
+        ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge)
         - Proyecto `project-ableton-page` \
         Este proyecto intenta emular un página web sencilla, utilizandose como referencia la web [_Frontend Practice_](https://www.frontendpractice.com/).
-        ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge)
+        ![Status - Done](https://img.shields.io/badge/status-DONE-success?style=for-the-badge)
+        ![Status - Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)
         - Proyecto `my-repo-cas` \
         Este es el **README.md** de mi repositorio de presentación. El mismo estará ampliandose a medida se incorporen proyectos, los cuales, también tendrán sus correspondientes _README.md_
         ![Status - Working](https://img.shields.io/badge/status-WIP%20month%20to%20month-informational?style=for-the-badge)
