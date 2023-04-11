@@ -56,12 +56,12 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
 
 ###### Introducete al mundo de las Tecnologías de la Información (y practica `markdown`)
 
-## Un rostro universal con el cual me siento identificado:
+<!-- ## Un rostro universal con el cual me siento identificado:
 
 ![Este es Homero, le conoces, verdad?](./assets/imgs/HOMEROSS.png)
 > Dónde está mi hamburgesa...? [^1]
 
-[^1]: Frase celebre dicha por `Homero` cierto día de huelga en la planta del `Mrs. Burns` 😜
+[^1]: Frase celebre dicha por `Homero` cierto día de huelga en la planta del `Mrs. Burns` 😜 -->
 
 1. ## Primeros pasos en el `frontend`
 
@@ -107,7 +107,7 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
     - ### Conocimientos en Base de Datos Relacionales
     ![logo de mysql](https://img.shields.io/badge/MYSQL-beginner-brightgreen?style=for-the-badge&logo=mysql&logoColor=white) \
         - Qué significa una Base de Datos Relacional (principios A.C.I.D) \
-        - Entidades y atributos (notación Chen), realciones, cardinalidad \
+        - Entidades y atributos (notación Chen), relaciones, cardinalidad \
         - Normalización de una Base de Datos (reglas de Codd) \
         - Diagrama físico (tipos de datos, constraints) \
         - Sublenguajes dentro de `SQL` (`DDL` `DML` `DCL` `TCL`) \
@@ -140,12 +140,15 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
         - Proyecto `my-repo-cas` \
         Este es el **README.md** de mi repositorio de presentación. El mismo estará ampliandose a medida se incorporen proyectos, los cuales, también tendrán sus correspondientes _README.md_
         ![Status - Working](https://img.shields.io/badge/status-WIP%20month%20to%20month-informational?style=for-the-badge)
-        ![Status - Version](https://img.shields.io/badge/version-1.1-informational?style=for-the-badge)
+        ![Status - Version](https://img.shields.io/badge/version-1.1.1-informational?style=for-the-badge)
 
         <!-- CONTINUAR CONTINUAR y CONTINUAR, this is the way -->
     
     - #### ABRIL 2023
         - A planificar. Seguir con los proyectos no concluídos del mes de **MARZO 2023** y evaluar agregar nuevos.
+        - Under construction \
+        Proyecto `project-abstract-page` (retomo utilización de **_Figma_**) \
+        ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge)
 
 3.  ## Y... ahora...?
 
@@ -157,3 +160,6 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
 
 <!-- (UNDER CONSTRUCTION ⛏ ⚒) \
     - Como bien está explicado en mi `linkedin` contamos con una profesión de la cual me siento orgulloso, y tal vez en otro momento y/o circunstancia, pueda tratar de amalgamar el rubro y su funcionamiento con la **_Data Science_** -->
+
+<!-- Se pretende los primeros 10 días de cada mes, actualizar este README.md
+"this is the way..." -->
