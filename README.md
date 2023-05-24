@@ -138,17 +138,41 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
         ![Status - Done](https://img.shields.io/badge/status-DONE-success?style=for-the-badge)
         ![Status - Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)
         - Proyecto `my-repo-cas` \
-        Este es el **README.md** de mi repositorio de presentación. El mismo estará ampliandose a medida se incorporen proyectos, los cuales, también tendrán sus correspondientes _README.md_
+        Este es el **README.md** de mi repositorio de presentación. El mismo estará ampliandose a medida se incorporen proyectos, los cuales, también tendrán sus correspondientes _README.md_ \
         ![Status - Working](https://img.shields.io/badge/status-WIP%20month%20to%20month-informational?style=for-the-badge)
-        ![Status - Version](https://img.shields.io/badge/version-1.1.1-informational?style=for-the-badge)
+        ![Status - Version](https://img.shields.io/badge/version-1.1.2-informational?style=for-the-badge) \
+        _version mayo 2023_ _upgrade: 25-05-23_
 
         <!-- CONTINUAR CONTINUAR y CONTINUAR, this is the way -->
     
     - #### ABRIL 2023
-        - A planificar. Seguir con los proyectos no concluídos del mes de **MARZO 2023** y evaluar agregar nuevos.
-        - Under construction \
         Proyecto `project-abstract-page` (retomo utilización de **_Figma_**) \
+        \
+        ![Status - Done](https://img.shields.io/badge/status-DONE-success?style=for-the-badge)
+        ![Status - Version](https://img.shields.io/badge/version-0.1.0-green?style=for-the-badge)
+        
+
+    - #### MAYO 2023
+        - Proyecto `project-RDMF-blog` \
+        Continuar este proyecto con la implementación de  _Responsive Design_ \
+        ![Status - Done](https://img.shields.io/badge/status-DONE-success?style=for-the-badge)
+        ![Status - Version](https://img.shields.io/badge/version-0.1.0%20mobile%20may23-green?style=for-the-badge)
+        - Proyecto `Bonsai-page` \
+        Este proyecto se toma desde la página [_Frontend Practice_](https://www.frontendpractice.com/) \
+        Es una página con planes de precios para suscripción \
         ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge)
+        - Proyecto `BatataBit` \
+        Este proyecto es de la academia. Se realizará paso a paso con los apuntes que tengo en cuadernolas. \
+        ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge)
+
+        - Under construction - JUNIO 2023 \
+        A planificar. \
+        ![Status - Planned](https://img.shields.io/badge/status-PLANNED-important?style=for-the-badge) \
+        Intentar emular páginas Web sencillas. Tener presente el diseño _first mobile_.
+        Continuar proyectos iniciados en abril 2023. A la fecha son: `Bonsai-page` y `BatataBit`
+        
+        <!-- ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge) -->
+        
 
 3.  ## Y... ahora...?
 
