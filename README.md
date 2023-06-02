@@ -95,7 +95,8 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
         - Tipos de datos en JavaScript. Primitivos, objetos, arrays. \
         - `Scope`. Tipos de scopes. \
         - Que diantres es el `hoisting` \
-        - Operadores, condicionales, loops
+        - Operadores, condicionales, loops \
+        - Y si te manipulas el `DOM`?
     > El mundo del `JavaScript` me es inabarcable en estos momentos, pero, vamos dando nuestros primeros pasos.
 
     - ### Conocimientos de GIT y GitHub
@@ -165,11 +166,12 @@ Don´t ruin "pela"_** `🤍 Satya Nadella`
         Este proyecto es de la academia. Se realizará paso a paso con los apuntes que tengo en cuadernolas. \
         ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge)
 
-        - Under construction - JUNIO 2023 \
-        A planificar. \
+    - #### JUNIO 2023
+        - Proyecto `PaltataBit` \
+        Este proyecto será similar al `BatataBit` pero sin guía alguna, prueba y error, con potenciales implementaciones de diseño vistas. Uso de propiedades como _translation_ y _transition_ de **CSS3** \
         ![Status - Planned](https://img.shields.io/badge/status-PLANNED-important?style=for-the-badge) \
         Intentar emular páginas Web sencillas. Tener presente el diseño _first mobile_.
-        Continuar proyectos iniciados en abril 2023. A la fecha son: `Bonsai-page` y `BatataBit`
+        Continuar proyectos iniciados en abril 2023. A la fecha son: `Bonsai-page` y `BatataBit`        
         
         <!-- ![Status - Working](https://img.shields.io/badge/status-WIP-important?style=for-the-badge) -->
         
